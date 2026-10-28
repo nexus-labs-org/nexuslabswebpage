@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-symbol-dark">
+  <title id="title-symbol-dark">Nexus Labs — Keystone Symbol (Dark Mode)</title>
+  <g id="symbol">
+    <path fill="#F8FAFC" d="M 29 29 H 56 L 112 85 L 85 112 L 71 98 V 185 L 29 227 Z M 227 227 H 200 L 144 171 L 171 144 L 185 158 V 71 L 227 29 Z"/>
+    <path fill="#00E5FF" d="M 128 101 L 155 128 L 128 155 L 101 128 Z"/>
+  </g>
+</svg>

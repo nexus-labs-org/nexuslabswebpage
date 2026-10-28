@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title-symbol">
+  <title id="title-symbol">Nexus Labs — Keystone Symbol</title>
+  <g id="symbol">
+    <path fill="#0F172A" d="M 28 28 H 56 L 113 85 L 85 113 L 72 100 V 184 L 28 228 Z M 228 228 H 200 L 143 171 L 171 143 L 184 156 V 72 L 228 28 Z"/>
+    <path fill="#0096D6" d="M 128 100 L 156 128 L 128 156 L 100 128 Z"/>
+  </g>
+</svg>
